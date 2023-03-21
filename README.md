@@ -1,6 +1,6 @@
 # Šimon Selecký
 
-Welcome to my page, my name is Šimon and I'm a fresh alumni of Green Fox Academy. I'm specializing in backend and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
+Welcome to my page, my name is Šimon and I'm a fresh alumni of Green Fox Academy. I'm specializing in backend (Java Stack) and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/simon-selecky/)
