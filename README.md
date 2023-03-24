@@ -1,6 +1,6 @@
 # Šimon Selecký
 
-Welcome to my page, my name is Šimon and I'm a fresh alumni of Green Fox Academy. I'm specializing in backend (Java Stack) and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
+Hello, my name is Šimon and I'm a fresh alumni of Green Fox Academy. I'm specializing in backend (Java Stack) and this are my projects in our after-course Huli program, where I'm honing old skills and learning new ones to become an even better candidate.
 
 ## Hire me
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/simon-selecky/)
@@ -11,9 +11,6 @@ Email: seleckysimon@gmail.com
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: -
-
-Hackerrank: -
 
 Codewars: [CodeWars](https://www.codewars.com/users/sS1mon)
 
