@@ -8,13 +8,8 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/simon-selecky/)
 Email: seleckysimon@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Currency exchanger: When the first functional version is available, the link will be placed here immediately!
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
 Codewars: [CodeWars](https://www.codewars.com/users/sS1mon)
-
-## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
-Upload your solutions as files into interview-tests/ directory
-
-
