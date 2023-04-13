@@ -8,7 +8,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/simon-selecky/)
 Email: seleckysimon@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-Insurance Simulator: When the first functional version is online, the link will be placed here immediately!
+Insurance Simulator: https://github.com/sS1mon/Insurance_Simulator
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
